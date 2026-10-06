@@ -1,4 +1,4 @@
-package ai0929.GUI;
+package center;
 
 import java.awt.*;
 
@@ -17,7 +17,6 @@ public class CenterFrame {
 
         int x = sw / 2 - w / 2;
         int y = sh / 2 - h / 2;
-
         int[] location = {x,y};
 
 //        Dimension locationDim = new Dimension(x,y);
